@@ -1,0 +1,26 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node.js dependencies (if you add tooling later)
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Build output (if using a static site generator later)
+dist/
+_build/
+_site/
+
+# Environment files (if you add Netlify or similar)
+.env
+.env.local
+.env.production
