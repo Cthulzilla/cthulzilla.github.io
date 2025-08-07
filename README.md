@@ -20,7 +20,7 @@ A clean, responsive link-in-bio page built with HTML and CSS. This serves as a p
 - Instagram
 - YouTube
 - GitHub
-- [Add others here]
+- [more to come]
 
 ### Projects
 - **Lipinski CAD** – Design & fabrication services
