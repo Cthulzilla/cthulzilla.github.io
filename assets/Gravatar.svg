@@ -7,12 +7,49 @@
    viewBox="0 0 64 63.999999"
    version="1.1"
    id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="∴ follow me.svg"
+   inkscape:export-batch-path="C:\Users\chris\Insync\OneDrives\Chris.meccom\link-in-bio-site\assets"
+   inkscape:export-batch-name=""
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.75087439"
+     inkscape:cx="837.02415"
+     inkscape:cy="222.40737"
+     inkscape:window-width="2516"
+     inkscape:window-height="1417"
+     inkscape:window-x="36"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="64"
+       height="64"
+       id="page34"
+       margin="0"
+       bleed="0"
+       inkscape:label="Gravatar" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <linearGradient
        id="swatch19"
+       inkscape:swatch="solid"
+       inkscape:label="BLACK"
        gradientTransform="matrix(0.90030365,0,0,0.90030365,405.6182,43.458673)">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
@@ -21,11 +58,14 @@
     </linearGradient>
   </defs>
   <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-1184)">
     <path
        d="m 1216.0032,7.001565 c -2.7578,0 -4.9953,2.2375 -4.9953,4.9953 v 17.50625 c 0,2.757817 2.2375,4.995317 4.9953,4.995317 2.7578,0 4.9953,-2.2375 4.9953,-4.995317 v -11.6453 c 5.8265,2.0578 10.0015,7.6078 10.0015,14.14375 0,8.276551 -6.7203,14.998434 -14.9985,14.998434 -8.278,0 -14.9983,-6.7125 -14.9983,-14.998434 0,-4.142183 1.675,-7.89375 4.3937,-10.604683 1.9546,-1.951567 1.9546,-5.126567 0,-7.0797 -1.9515,-1.954684 -5.1265,-1.954684 -7.0797,0 C 1193.8,18.849998 1191,25.099999 1191,31.999999 c 0,13.810933 11.189,25 25,25 13.811,0 25,-11.189067 25,-25 0,-13.810934 -11.189,-25.000001 -25,-25.000001 z"
        id="path1-8"
-       style="stroke-width:25" />
+       style="stroke-width:25"
+       inkscape:label="path1-8" />
   </g>
 </svg>

@@ -41,15 +41,28 @@ body {
 .icon-grid {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  gap: 10px;
+  gap: 9px;
   max-width: 400px; /* adjust as needed */
 }
 
 .icon img {
-  width: 80%;
+  width: 75%;
   height: auto;
 }
 
 .hidden {
   display: none;
+}
+
+.tagline {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: #330066;
+}
+
+.subtagline {
+  font-size: 0.95rem;
+  color: #333;
+  margin-bottom: 1rem;
 }
