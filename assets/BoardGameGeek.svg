@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="63.999996"
+   viewBox="0 0 64 63.999999"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch19"
+       gradientTransform="matrix(0.90030365,0,0,0.90030365,405.6182,43.458673)">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop19" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-1332)">
+    <polygon
+       fill="#FF5100"
+       points="6.577,37.93 20.558,32.779 25.418,21.37 23.331,19.358 24.87,7.01 21.107,8.035 24.792,0 0.9,8.794 2.206,19.327 0,21.454 "
+       id="polygon1"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.758598"
+       transform="matrix(1.3182178,0,0,1.3182178,1347.2468,6.9999979)" />
+  </g>
+</svg>

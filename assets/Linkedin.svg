@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="63.999996"
+   viewBox="0 0 64 63.999999"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch19"
+       gradientTransform="matrix(0.90030365,0,0,0.90030365,405.6182,43.458673)">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop19" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-1258)">
+    <path
+       d="m 144,7339 h -4 v -6.999 c 0,-1.92 -0.847,-2.991 -2.366,-2.991 -1.653,0 -2.634,1.116 -2.634,2.991 V 7339 h -4 v -13 h 4 v 1.462 c 0,0 1.255,-2.202 4.083,-2.202 2.829,0 4.917,1.726 4.917,5.298 z m -17.558,-15.079 c -1.349,0 -2.442,-1.102 -2.442,-2.461 0,-1.358 1.093,-2.46 2.442,-2.46 1.348,0 2.441,1.102 2.441,2.46 10e-4,1.359 -1.093,2.461 -2.441,2.461 z M 124,7339 h 5 v -13 h -5 z"
+       id="linkedin-[#161]"
+       style="stroke-width:17.7778"
+       transform="matrix(2.25,0,0,2.25,988.5,-16458.25)" />
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="63.999996"
+   viewBox="0 0 64 63.999999"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch19"
+       gradientTransform="matrix(0.90030365,0,0,0.90030365,405.6182,43.458673)">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop19" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#swatch19"
+       id="linearGradient22"
+       x1="239"
+       y1="31.999998"
+       x2="269"
+       y2="31.999998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6666667,0,0,1.6666667,-169.33334,-21.333333)" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-222)">
+    <path
+       d="m 268.37419,9.4011275 h 7.67058 L 259.29119,28.54498 279,54.59887 H 263.57194 L 251.47935,38.80139 237.65928,54.59887 h -7.68145 L 247.89397,34.118643 229,9.4011275 h 15.81922 L 255.73839,23.840503 Z M 265.6797,50.013907 h 4.24815 L 242.505,13.747064 h -4.56323 z"
+       id="path435"
+       style="fill:url(#linearGradient22);stroke-width:0;stroke-dasharray:none" />
+  </g>
+</svg>
