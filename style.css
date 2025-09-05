@@ -13,7 +13,7 @@ body {
 .container {
   max-width: 400px;
   margin: auto;
-  background: rgba(0,255,255,0.7); /* cyan with transparency */
+  background: rgba(0,255,255,0.9); /* cyan with transparency */
   padding: 2rem;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -41,8 +41,15 @@ body {
 .icon-grid {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  gap: 9px;
-  max-width: 400px; /* adjust as needed */
+  max-width: 400px;
+  gap: 10px;
+  margin-bottom: 0;
+  transition: margin-bottom 0.5s ease;
+  
+}
+
+.icon-grid.expanded {
+  margin-bottom: 20px;    /* push it down only when expanded */
 }
 
 .icon img {
@@ -65,4 +72,116 @@ body {
   font-size: 0.95rem;
   color: #333;
   margin-bottom: 1rem;
+}
+
+.hidden-container {
+  /* margin-top: 20px;  */
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  row-gap: 20px;
+  overflow: hidden;
+  max-height: 0;                    /* start closed */
+  transition: max-height 0.5s ease; /* animate height */
+}
+
+.hidden-container.expanded {
+  max-height: 1000px;               /* large enough for all icons */
+}
+
+.toggle-icon {
+  cursor: pointer;
+  display: block;
+  /* margin: 1rem auto; */
+  transition: transform 0.3s;
+}
+
+.toggle-icon:hover {
+  transform: scale(1.1);
+}
+
+.expandable {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.5s ease;
+}
+
+.expandable.show {
+  max-height: 1000px; /* adjust as needed */
+}
+
+.expandable a,
+.expandable p {
+  display: block;
+  padding: 0.5rem 0;
+  color: #000; /* or your preferred color */
+  text-decoration: none;
+}
+
+
+.toggle-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #330066; /* or any color you like */
+  color: cyan;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 20px;
+  margin: 15px 0;
+  box-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+  transition: background-color 0.3s ease;
+  height: 60px;
+  padding: 0 1rem; /* horizontal only */
+}
+
+.toggle-btn:hover {
+  background-color: #660099;
+}
+
+.btn-icon {
+  width: 24px;
+  margin-right: 0.5rem;
+}
+
+.btn-arrow {
+  width: 16px;
+  transition: transform 0.3s ease;
+}
+
+.toggle-btn.expanded .btn-arrow {
+  transform: rotate(180deg);
+}
+
+.scroll-banner {
+  width: 100%;
+  overflow: hidden;
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+  font-size: 1rem;
+  padding: 0.5rem 0;
+  border-bottom: 2px solid black;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.scroll-banner p {
+  display: inline-block;
+  white-space: nowrap;
+  animation: scroll-left 20s linear infinite;
+  padding-left: 100%;
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.scroll-banner p:hover {
+  animation-play-state: paused;
 }

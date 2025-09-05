@@ -7,50 +7,13 @@
    viewBox="0 0 64 63.999999"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="∴ follow me.svg"
-   inkscape:export-batch-path="C:\Users\chris\Insync\OneDrives\Chris.meccom\link-in-bio-site\assets"
-   inkscape:export-batch-name=""
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     inkscape:zoom="0.75087439"
-     inkscape:cx="837.02415"
-     inkscape:cy="222.40737"
-     inkscape:window-width="2516"
-     inkscape:window-height="1417"
-     inkscape:window-x="36"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1">
-    <inkscape:page
-       x="0"
-       y="0"
-       width="64"
-       height="64"
-       id="page30"
-       margin="0"
-       bleed="0"
-       inkscape:label="Reddit" />
-  </sodipodi:namedview>
   <defs
      id="defs1">
     <linearGradient
        id="swatch19"
-       inkscape:swatch="solid"
-       inkscape:label="BLACK"
-       gradientTransform="matrix(0.90030365,0,0,0.90030365,405.6182,43.458673)">
+       gradientTransform="matrix(0.90030365,0,0,0.90030365,363.26464,43.458673)">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
@@ -58,14 +21,11 @@
     </linearGradient>
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-888)">
     <path
        d="m 927.5725,38.868749 c -1.905,0 -3.5025,-1.5645 -3.5025,-3.494 0,-1.932 1.5975,-3.54725 3.5025,-3.54725 1.9025,0 3.445,1.61525 3.445,3.54725 0,1.9295 -1.54,3.494 -3.445,3.494 m 0.485,6.45525 c -1.6825,1.704 -4.32,2.533 -8.06,2.533 -3.7425,0 -6.3775,-0.829 -8.0575,-2.533 -0.365,-0.37025 -0.365,-0.9685 0,-1.34125 0.3625,-0.37025 0.955,-0.37025 1.32,0 1.3125,1.33125 3.515,1.98025 6.7375,1.98025 3.22,0 5.425,-0.649 6.74,-1.98025 0.3625,-0.37025 0.955,-0.37025 1.32,0 0.365,0.37275 0.365,0.971 0,1.34125 M 908.98,35.374749 c 0,-1.9295 1.595,-3.54725 3.4975,-3.54725 1.9025,0 3.445,1.61775 3.445,3.54725 0,1.9295 -1.5425,3.494 -3.445,3.494 -1.9025,0 -3.4975,-1.5645 -3.4975,-3.494 M 945,31.533499 c 0,-3.167 -2.54,-5.743 -5.6625,-5.743 -1.44,0 -2.7975,0.54525 -3.8375,1.52125 -3.7375,-2.467 -8.7425,-4.06175 -14.285,-4.27975 l 3.0575,-9.465001 8.03,1.91675 c 0.003,2.6065 2.0925,4.72375 4.6625,4.72375 2.57,0 4.6625,-2.12225 4.6625,-4.72875 0,-2.6065 -2.0925,-4.72875 -4.6625,-4.72875 -1.925,0 -3.5775,1.1865 -4.29,2.87775 -1.73,-0.41325 -7.915,-1.8915 -9.645,-2.30475 l -3.775,11.688751 c -5.7525,0.11 -10.965,1.69625 -14.8425,4.2215 -1.0275,-0.9255 -2.3575,-1.44275 -3.7525,-1.44275 -3.12,0 -5.66,2.576 -5.66,5.743 0,2.0105 1.035,3.854 2.69,4.8885 -1.5075,9.03125 8.985,16.828 22.205,16.828 13.165,0 23.6225,-7.72825 22.2275,-16.714 1.77,-1.0065 2.8775,-2.893 2.8775,-5.0025"
        id="reddit-[#143]"
-       style="stroke-width:40.0002"
-       inkscape:label="reddit" />
+       style="stroke-width:40.0002" />
   </g>
 </svg>

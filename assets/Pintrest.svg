@@ -7,50 +7,13 @@
    viewBox="0 0 64 63.999999"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="∴ follow me.svg"
-   inkscape:export-batch-path="C:\Users\chris\Insync\OneDrives\Chris.meccom\link-in-bio-site\assets"
-   inkscape:export-batch-name=""
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     inkscape:zoom="0.75087439"
-     inkscape:cx="837.02415"
-     inkscape:cy="222.40737"
-     inkscape:window-width="2516"
-     inkscape:window-height="1417"
-     inkscape:window-x="36"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1">
-    <inkscape:page
-       x="0"
-       y="0"
-       width="64"
-       height="64"
-       id="page39"
-       margin="0"
-       bleed="0"
-       inkscape:label="Pintrest" />
-  </sodipodi:namedview>
   <defs
      id="defs1">
     <linearGradient
        id="swatch19"
-       inkscape:swatch="solid"
-       inkscape:label="BLACK"
-       gradientTransform="matrix(0.90030365,0,0,0.90030365,405.6182,43.458673)">
+       gradientTransform="matrix(0.90030365,0,0,0.90030365,363.26464,43.458673)">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
@@ -58,14 +21,11 @@
     </linearGradient>
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-1480)">
     <path
        d="M 1511.69,7 C 1497.9975,7 1487,18.087 1487,31.89675 c 0,10.25 6.0175,18.82625 14.7325,22.80175 0,-4.66875 -0.033,-4.06625 3.525,-19.24725 -1.955,-3.94525 -0.435,-10.4595 3.9425,-10.4595 6.075,0 1.9475,9.00725 1.245,12.55175 -0.6225,2.72 1.4525,4.8125 3.9425,4.8125 4.7725,0 7.8825,-6.068 7.8825,-13.1795 0,-5.44 -3.7325,-9.4155 -10.165,-9.4155 -11.4375,0 -14.3375,12.73825 -10.3725,16.73625 0.9975,1.51 0,1.58075 0,3.557 -0.6925,2.09 -6.225,-0.94775 -6.225,-8.78525 0,-7.114 5.81,-15.481 17.635,-15.481 9.335,0 15.56,6.90225 15.56,14.2255 0,9.8315 -5.395,16.94575 -13.2775,16.94575 -2.6975,0 -5.1875,-1.46475 -6.0175,-3.13875 -1.5075,5.86375 -1.8125,8.836 -4.15,12.13325 C 1507.54,56.5815 1509.8225,57 1512.3125,57 1526.005,57 1537,45.913 1537,32.10575 1536.38,18.087 1525.3825,7 1511.69,7"
        id="pinterest-[#180]"
-       style="stroke-width:40"
-       inkscape:label="pinterest" />
+       style="stroke-width:40" />
   </g>
 </svg>

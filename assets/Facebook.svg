@@ -7,58 +7,20 @@
    viewBox="0 0 64 63.999999"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="∴ follow me.svg"
-   inkscape:export-batch-path="C:\Users\chris\Insync\OneDrives\Chris.meccom\link-in-bio-site\assets"
-   inkscape:export-batch-name=""
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     inkscape:zoom="0.75087439"
-     inkscape:cx="837.02415"
-     inkscape:cy="222.40737"
-     inkscape:window-width="2516"
-     inkscape:window-height="1417"
-     inkscape:window-x="36"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1">
-    <inkscape:page
-       x="0"
-       y="0"
-       width="64"
-       height="64"
-       id="page12"
-       margin="0"
-       bleed="0"
-       inkscape:label="Facebook" />
-  </sodipodi:namedview>
   <defs
      id="defs1">
     <linearGradient
        id="swatch19"
-       inkscape:swatch="solid"
-       inkscape:label="BLACK"
-       gradientTransform="matrix(0.90030365,0,0,0.90030365,405.6182,43.458673)">
+       gradientTransform="matrix(0.90030365,0,0,0.90030365,363.26464,43.458673)">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
          id="stop19" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#swatch19"
        id="linearGradient23"
        x1="319.4541"
@@ -66,15 +28,13 @@
        x2="336.5459"
        y2="31.999998"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.6666664,0,0,1.6666664,-218.66657,-21.333322)" />
+       gradientTransform="matrix(1.4999997,0,0,1.4999997,-163.9999,-15.999988)" />
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-296)">
     <path
-       d="m 320.20214,36.228515 v 20.771484 h 11.32814 V 36.228515 h 8.44726 l 1.75782,-9.55078 h -10.20508 v -3.378906 c 0,-5.048827 1.98241,-6.98242 7.09961,-6.98242 1.59178,0 2.87108,0.03907 3.61327,0.117183 V 7.771483 c -1.39649,-0.380858 -4.81445,-0.771485 -6.7871,-0.771485 -10.43945,0 -15.25392,4.931641 -15.25392,15.566406 v 4.111328 h -6.4453 v 9.55078 z"
+       d="m 320.98192,35.805664 v 18.694335 h 10.19533 V 35.805664 h 7.60253 l 1.58204,-8.595702 h -9.18457 v -3.041015 c 0,-4.543945 1.78416,-6.284178 6.38964,-6.284178 1.43261,0 2.58398,0.03516 3.25195,0.105464 v -7.795898 c -1.25684,-0.3427722 -4.33301,-0.6943365 -6.10838,-0.6943365 -9.39551,0 -13.72853,4.4384775 -13.72853,14.0097655 v 3.700195 h -5.80077 v 8.595702 z"
        id="path2"
        style="fill:url(#linearGradient23);stroke-width:0;stroke-dasharray:none" />
   </g>

@@ -7,58 +7,20 @@
    viewBox="0 0 64 63.999999"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="∴ follow me.svg"
-   inkscape:export-batch-path="C:\Users\chris\Insync\OneDrives\Chris.meccom\link-in-bio-site\assets"
-   inkscape:export-batch-name=""
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     inkscape:zoom="0.75087439"
-     inkscape:cx="837.02415"
-     inkscape:cy="222.40737"
-     inkscape:window-width="2516"
-     inkscape:window-height="1417"
-     inkscape:window-x="36"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1">
-    <inkscape:page
-       x="0"
-       y="0"
-       width="64"
-       height="64"
-       id="page15"
-       margin="0"
-       bleed="0"
-       inkscape:label="YouTube" />
-  </sodipodi:namedview>
   <defs
      id="defs1">
     <linearGradient
        id="swatch19"
-       inkscape:swatch="solid"
-       inkscape:label="BLACK"
-       gradientTransform="matrix(0.90030365,0,0,0.90030365,405.6182,43.458673)">
+       gradientTransform="matrix(0.90030365,0,0,0.90030365,363.26464,43.458673)">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
          id="stop19" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#swatch19"
        id="linearGradient26"
        x1="535"
@@ -66,15 +28,13 @@
        x2="565"
        y2="31.999998"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.6666667,0,0,1.6666667,-366.66669,-21.333333)" />
+       gradientTransform="matrix(1.4999997,0,0,1.4999997,-274.99985,-15.99999)" />
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-518)">
     <path
-       d="m 573.95643,19.925666 c -0.57672,-2.169535 -2.27023,-3.872208 -4.42147,-4.448922 -3.89966,-1.052726 -19.53497,-1.052726 -19.53497,-1.052726 0,0 -15.6353,0 -19.53496,1.052726 -2.15124,0.576714 -3.84475,2.279387 -4.42145,4.448922 -1.04359,3.927134 -1.04359,12.11095 -1.04359,12.11095 0,0 0,8.183816 1.04359,12.110949 0.5767,2.169535 2.27021,3.798975 4.42145,4.375687 C 534.36469,49.57598 550,49.57598 550,49.57598 c 0,0 15.63531,0 19.53496,-1.052728 2.15124,-0.576712 3.84475,-2.215307 4.42147,-4.375687 C 575,40.220432 575,32.036616 575,32.036616 c 0,0 0,-8.183816 -1.04357,-12.11095 z M 544.89198,39.469792 V 24.60344 l 13.06299,7.433176 z"
+       d="M 571.56079,21.133101 C 571.04174,19.18052 569.51758,17.648115 567.58146,17.129072 564.07177,16.181619 550,16.181619 550,16.181619 c 0,0 -14.07177,0 -17.58147,0.947453 -1.93611,0.519043 -3.46027,2.051448 -3.9793,4.004029 C 527.5,24.667521 527.5,32.032954 527.5,32.032954 c 0,0 0,7.365433 0.93923,10.899852 0.51903,1.952581 2.04319,3.419077 3.9793,3.938117 3.5097,0.947455 17.58147,0.947455 17.58147,0.947455 0,0 14.07178,0 17.58146,-0.947455 1.93612,-0.51904 3.46028,-1.993775 3.97933,-3.938117 C 572.5,39.398387 572.5,32.032954 572.5,32.032954 c 0,0 0,-7.365433 -0.93921,-10.899853 z m -26.158,17.58971 V 25.343097 l 11.75669,6.689857 z"
        id="path2-9"
        style="fill:url(#linearGradient26);stroke-width:0;stroke-dasharray:none" />
   </g>

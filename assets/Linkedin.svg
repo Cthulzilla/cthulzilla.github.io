@@ -7,50 +7,13 @@
    viewBox="0 0 64 63.999999"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="∴ follow me.svg"
-   inkscape:export-batch-path="C:\Users\chris\Insync\OneDrives\Chris.meccom\link-in-bio-site\assets"
-   inkscape:export-batch-name=""
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     inkscape:zoom="0.75087439"
-     inkscape:cx="837.02415"
-     inkscape:cy="222.40737"
-     inkscape:window-width="2516"
-     inkscape:window-height="1417"
-     inkscape:window-x="36"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1">
-    <inkscape:page
-       x="0"
-       y="0"
-       width="64"
-       height="64"
-       id="page35"
-       margin="0"
-       bleed="0"
-       inkscape:label="Linkedin" />
-  </sodipodi:namedview>
   <defs
      id="defs1">
     <linearGradient
        id="swatch19"
-       inkscape:swatch="solid"
-       inkscape:label="BLACK"
-       gradientTransform="matrix(0.90030365,0,0,0.90030365,405.6182,43.458673)">
+       gradientTransform="matrix(0.90030365,0,0,0.90030365,363.26464,43.458673)">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
@@ -58,15 +21,12 @@
     </linearGradient>
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-1258)">
     <path
        d="m 144,7339 h -4 v -6.999 c 0,-1.92 -0.847,-2.991 -2.366,-2.991 -1.653,0 -2.634,1.116 -2.634,2.991 V 7339 h -4 v -13 h 4 v 1.462 c 0,0 1.255,-2.202 4.083,-2.202 2.829,0 4.917,1.726 4.917,5.298 z m -17.558,-15.079 c -1.349,0 -2.442,-1.102 -2.442,-2.461 0,-1.358 1.093,-2.46 2.442,-2.46 1.348,0 2.441,1.102 2.441,2.46 10e-4,1.359 -1.093,2.461 -2.441,2.461 z M 124,7339 h 5 v -13 h -5 z"
        id="linkedin-[#161]"
        style="stroke-width:17.7778"
-       transform="matrix(2.25,0,0,2.25,988.5,-16458.25)"
-       inkscape:label="linkedin" />
+       transform="matrix(2.25,0,0,2.25,988.5,-16458.25)" />
   </g>
 </svg>

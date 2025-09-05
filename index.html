@@ -8,6 +8,12 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+  <div class="scroll-banner">
+    <p>
+      Hello folks, I'm in the middle of relocating to a new state. My creative projects are on hold until I settle in at my new home in Indiana. Please stay tuned. Once the chaos ends and the dust settles, I will return to my creative projects.
+    </p>
+  </div>
+
   <div class="container">
     <img src="assets/profile.jpg" alt="Your profile photo" class="avatar" />
     <h1>Cthulzilla</h1>
@@ -19,27 +25,70 @@
       <div class="icon visible"><a href="https://www.threads.com/@cthulzilla" target="_blank"><img src="assets/Threads.svg" alt="Threads"></a></div>
       <div class="icon visible"><a href="https://x.com/cthulzilla" target="_blank"><img src="assets/X.com.svg" alt="X"></a></div>
       <div class="icon visible"><a href="https://www.facebook.com/cthulzilla1/" target="_blank"><img src="assets/Facebook.svg" alt="Facebook"></a></div>
-      <div class="icon visible"><a href="https://mastodon.social/@cthulzilla" target="_blank"><img src="assets/Mastodon.svg" alt="Mastodon"></a></div>
-    
-      <div class="icon hidden"><a href="https://bereal.com/profile.html?profile=/cthulzilla" target="_blank"><img src="assets/BeReal.svg" alt="Blank"></a></div>
-      <div class="icon hidden"><a href="https://pixelfed.social/cthulzilla" target="_blank"><img src="assets/Pixelfed.svg" alt="Icon 8"></a></div>
-      <div class="icon hidden"><a href="https://www.linkedin.com/in/christopherlipinski/" target="_blank"><img src="assets/Linkedin.svg" alt="Icon 8"></a></div>
-      <div class="icon hidden"><a href="https://www.pinterest.com/cthulzilla/" target="_blank"><img src="assets/Pintrest.svg" alt="Icon 8"></a></div>
-      <div class="icon hidden"><a href="https://boardgamegeek.com/user/Cthulzilla" target="_blank"><img src="assets/BoardGameGeek.svg" alt="Board Game Geek"></a></div>
-      <div class="icon hidden"><a href="https://cthulzilla.tumblr.com/" target="_blank"><img src="assets/Tumblr.svg" alt="Icon 8"></a></div>
-      
-      <div class="icon hidden"><a href=""><img src="assets/Blank.svg" alt="Blank"></a></div>
-      <div class="icon hidden"><a href=""><img src="assets/Blank.svg" alt="Blank"></a></div>
-      <div class="icon hidden"><a href="https://www.youtube.com/@Cthulzilla" target="_blank"><img src="assets/YouTube.svg" alt="Icon 6"></a></div>
-      <div class="icon hidden"><a href="https://www.tiktok.com/@cthulzilla" target="_blank"><img src="assets/TikTok.svg" alt="Icon 7"></a></div>
-      <div class="icon hidden"><a href=""><img src="assets/Blank.svg" alt="Blank"></a></div>
-      <div class="icon hidden"><a href=""><img src="assets/Blank.svg" alt="Blank"></a></div>
+      <div class="icon visible"><img id="toggle-icon" src="assets/down-arrow.svg" alt="Show more" class="toggle-icon" /></div>
     </div>
-    <button id="toggle-btn">⬇ Show More</button>
-    <div class="links">
-      <a href="" target="_blank">3D Projects</a>
-      <a href="" target="_blank">Music Projects</a>
-      <a href="" target="_blank">Writing Projects</a>
+    
+    <div class="hidden-container">
+      <div class="icon"><a href="https://bereal.com/profile.html?profile=/cthulzilla" target="_blank"><img src="assets/BeReal.svg" alt="BeRealk"></a></div>
+      <div class="icon"><a href="https://pixelfed.social/cthulzilla" target="_blank"><img src="assets/Pixelfed.svg" alt="Pixelfed"></a></div>
+      <div class="icon"><a href="https://www.linkedin.com/in/christopherlipinski/" target="_blank"><img src="assets/Linkedin.svg" alt="LinkedIn"></a></div>
+      <div class="icon"><a href="https://www.pinterest.com/cthulzilla/" target="_blank"><img src="assets/Pintrest.svg" alt="Pintrest"></a></div>
+      <div class="icon"><a href="https://boardgamegeek.com/user/Cthulzilla" target="_blank"><img src="assets/BoardGameGeek.svg" alt="Board Game Geek"></a></div>
+      <div class="icon"><a href="https://mastodon.social/@cthulzilla" target="_blank"><img src="assets/Mastodon.svg" alt="Mastodon"></a></a></div>
+      
+      <div class="icon"><img src="assets/Blank.svg" alt="Blank"></div>
+      <div class="icon"><img src="assets/Blank.svg" alt="Blank"></div>
+      <div class="icon"><a href="https://www.youtube.com/@Cthulzilla" target="_blank"><img src="assets/YouTube.svg" alt="YouTube"></a></div>
+      <div class="icon"><a href="https://www.tiktok.com/@cthulzilla" target="_blank"><img src="assets/TikTok.svg" alt="TikTok"></a></div>
+      <div class="icon"><img src="assets/Blank.svg" alt="Blank"></div>
+      <div class="icon"><img src="assets/Blank.svg" alt="Blank"></div>
+    </div>
+
+    
+
+    <div class="link-section">
+      <button class="toggle-btn" data-target="projects-3d">
+        <img src="assets/icon-3d.svg" class="btn-icon" alt="3D icon">
+        <span>3D Projects</span>
+        <img src="assets/down-arrow.svg" class="btn-arrow" alt="Expand">
+      </button>
+      <div id="projects-3d" class="expandable">
+        <a href="https://cults3d.com/en/users/Cthulzilla" target="_blank">Cults 3D</a>
+        <!-- <a href="https://example.com/terrain" target="_blank">Terrain Builder</a> -->
+        <!-- Add more links here -->
+      </div>
+
+      <button class="toggle-btn" data-target="projects-music">
+        <img src="assets/icon-music.svg" class="btn-icon" alt="Music icon">
+        <span>Music Projects</span>
+        <img src="assets/down-arrow.svg" class="btn-arrow" alt="Expand">
+      </button>
+      <div id="projects-music" class="expandable">
+        <a href="https://extrudednoise.bandcamp.com" target="_blank">Extruded Noise - Bandcamp</a>
+        <a href="https://soundcloud.com/extruded-noise" target="_blank">Extruded Noise - SoundCloud</a>
+        <a href="https://www.last.fm/user/Strulg" target="_blank">What I am listening to? - Last FM</a>
+      </div>
+
+      <button class="toggle-btn" data-target="projects-writing">
+        <img src="assets/icon-writing.svg" class="btn-icon" alt="Writing icon">
+        <span>Literary Projects</span>
+        <img src="assets/down-arrow.svg" class="btn-arrow" alt="Expand">
+      </button>
+      <div id="projects-writing" class="expandable">
+        <a href="https://www.worldanvil.com/w/worlds-of-the-dragon-mist-dragonmistlord" target="_blank">Worlds of the Dragon Mist (World Anvil)</a>
+        <a href="https://dragonmistrpg.blogspot.com/" target="_blank">The Dragon Mist Journal (blog)</a>
+      </div>
+
+      <button class="toggle-btn" data-target="about-me">
+        <img src="assets/icon-about.svg" class="btn-icon" alt="About icon">
+        <span>About Me</span>
+        <img src="assets/down-arrow.svg" class="btn-arrow" alt="Expand">
+      </button>
+      <div id="about-me" class="expandable">
+        <p>
+          I'm Christopher Lipinski, a CAD detailer, modular designer, and creative tinkerer. I build immersive worlds, sculpt soundscapes, and optimize workflows from desk to digital. I live for RPGs, coffee rituals, and the occasional bourbon-fueled brainstorm.
+        </p>
+      </div>
     </div>
   </div>
   <script src="scripts/main.js"></script>
