@@ -186,3 +186,10 @@ body {
 .scroll-banner p:hover {
   animation-play-state: paused;
 }
+
+#about-me p {
+  text-align: left;
+  text-justify: inter-word;
+  line-height: 1.6;
+  margin-top: 0.5rem;
+}
