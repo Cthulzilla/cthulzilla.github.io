@@ -23,7 +23,6 @@ A clean, responsive link-in-bio page built with HTML and CSS. This serves as a p
 - [more to come]
 
 ### Projects
-- **Lipinski CAD** – Design & fabrication services
-- **Extruded Noise** – Experimental music
-- **Worlds of the Dragon Mist** – World Anvil lore hub
-- **3D Resources** – STL files and print guides
+- **Design Project** – 3d Designs, STL files, and prints
+- **Music Projects** – Production Jounnal, Experimental music
+- **Literary Projects** – Creative writing, World Anvil lore hub
