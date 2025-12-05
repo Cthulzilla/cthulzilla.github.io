@@ -95,8 +95,12 @@ body {
   transition: transform 0.3s;
 }
 
-.toggle-icon:hover {
+/* .toggle-icon:hover {
   transform: scale(1.1);
+} */
+
+.toggle-icon.expanded {
+  transform: rotate(180deg);
 }
 
 .expandable {
@@ -155,42 +159,61 @@ body {
   transform: rotate(180deg);
 }
 
-.scroll-banner {
-  width: 100%;
-  overflow: hidden;
-  background-color: yellow;
-  color: black;
-  font-weight: bold;
-  font-size: 1.5rem;
-  padding: 0 0;
-  border-bottom: 2px solid black;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.5);
-}
-
-.scroll-banner p {
-  display: inline-block;
-  white-space: nowrap;
-  animation: scroll-left 20s linear infinite;
-  padding-left: 100%;
-}
-
-
-@keyframes scroll-left {
-  0% {
-    transform: translateX(0%);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
-
-.scroll-banner p:hover {
-  animation-play-state: paused;
-}
-
 #about-me p {
   text-align: left;
   text-justify: inter-word;
   line-height: 1.6;
   margin-top: 0.5rem;
+}
+
+/* for the  "fetch and display latest RSS post" functions
+   to make sure the new text looks distinct
+   (smaller and tucked underneath the main link) */
+.latest-post {
+  display: block;
+  font-size: 0.85rem;     /* Smaller text */
+  color: #330066;         /* Match your theme's dark purple */
+  margin-top: -0.5rem;    /* Pull it closer to the link above */
+  margin-bottom: 1rem;    /* Add space after */
+  opacity: 0.8;
+  padding-left: 1rem;     /* Slight indent */
+}
+
+/* Specific fix for links inside text paragraphs (like About Me) */
+.expandable p a {
+  display: inline;              /* Sit on the same line as text */
+  padding: 0;                   /* Remove the button padding */
+  margin: 0;                    /* Remove button margins */
+  text-decoration: underline;   /* Add underline as requested */
+  font-weight: bold;            /* Make the text pop */
+  color: #330066;               /* Ensure it matches your dark purple theme */
+}
+
+.expandable p a:hover {
+  color: #006699;               /* Optional: Change color slightly on hover */
+  background: none;             /* Remove the background color hover effect if present */
+}
+
+
+/* Specific Contact Button Styles */
+.expandable p a.contact-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #330066;  /* Deep Purple background */
+  color: cyan;                /* FORCE Cyan text */
+  border: 2px solid cyan;     /* Cyan border */
+  border-radius: 25px;        /* Rounded "pill" shape */
+  text-decoration: none;
+  font-weight: bold;
+  font-family: 'Exo 2', sans-serif;
+  transition: all 0.3s ease;
+  box-shadow: 0 0 5px rgba(0, 255, 255, 0.2);
+}
+
+.expandable p a.contact-btn:hover {
+  background-color: cyan;     /* Swap to Cyan background */
+  color: #330066;             /* Swap to Purple text */
+  box-shadow: 0 0 15px cyan;  /* Intense glow effect */
+  transform: translateY(-2px);
 }
