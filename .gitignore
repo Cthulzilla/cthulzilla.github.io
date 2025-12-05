@@ -26,5 +26,5 @@ _site/
 .env.production
 
 # Insync / Cloud Drive temp files
-*.insyndl
+*.insyncdl
 *.insync-trash
