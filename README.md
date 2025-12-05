@@ -16,6 +16,7 @@ A clean, responsive link-in-bio page built with HTML and CSS. This serves as a p
 ## 🔗 Links Included
 
 ### Social Media
+
 - Bluesky
 - Instagram
 - YouTube
@@ -23,6 +24,7 @@ A clean, responsive link-in-bio page built with HTML and CSS. This serves as a p
 - [more to come]
 
 ### Projects
+
 - **Design Project** – 3d Designs, STL files, and prints
-- **Music Projects** – Production Jounnal, Experimental music
-- **Literary Projects** – Creative writing, World Anvil lore hub
+- **Music Projects** – Production Jounnal, Experimental music, YouTube Playlists
+- **Literary Projects** – Worldbuilding project (creative writing)
